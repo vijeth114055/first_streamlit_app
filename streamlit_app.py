@@ -5,4 +5,6 @@ streamlit.header("Breakfast Menu")
 streamlit.text("🥣Bread omlette🍞 and Paneer sandwich")
 streamlit.text("🥗Plain dosa and Sambar with 🥑flavoured rice")
 streamlit.text("🐔Hard boiled eggs")
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
    
