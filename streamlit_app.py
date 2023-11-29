@@ -17,7 +17,7 @@ streamlit.dataframe(fruits_to_show)
 
 
 streamlit.header("Fruityvice Fruit Advice")
-#import requests
+import requests
 from urllib.error import URLError
 try:
    fruit_choice = streamlit.text_input('What fruit would you like information about?','Kiwi')
